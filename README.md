@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+### Ademide Adelusi-Adeluyi
+Historian | Mapmaker
 
 You can use the [editor on GitHub](https://github.com/ademide/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
